@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\ZoomClone.Services.dll.config
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\ZoomClone.Services.dll
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\ZoomClone.Services.pdb
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\EntityFramework.dll
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\EntityFramework.xml
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\obj\Debug\ZoomClone.Services.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\obj\Debug\ZoomClone.Services.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\obj\Debug\ZoomClone.Services.csproj.CopyComplete
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\obj\Debug\ZoomClone.Services.dll
+C:\Users\Owner\source\repos\ZoomClone\ZoomClone.Services\obj\Debug\ZoomClone.Services.pdb
